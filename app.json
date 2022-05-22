@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "e-Library",
+    "slug": "snack-a8d86c4b-5699-4cd8-a674-c42b495cb5f2",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/app-logo.png",
+    "splash": {
+      "image": "./assets/app-logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#3333ff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/app-logo.png",
+        "backgroundColor": "#3333ff"
+      },
+      "package": "com.aaditya_2405.snacka8d86c4b56994cd8a674c42b495cb5f2"
+    },
+    "web": {
+      "favicon": "./assets/app-logo.png"
+    }
+  }
+}
